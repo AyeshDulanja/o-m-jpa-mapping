@@ -9,6 +9,12 @@
                 "productName":"note8",
                 "price":8000,
                 "qty":1
+            },
+            {
+                "pid":200,
+                "productName":"iphone",
+                "price":9999,
+                "qty":1
             }
         ]
     }
