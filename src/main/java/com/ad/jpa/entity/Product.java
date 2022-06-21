@@ -18,6 +18,6 @@ public class Product {
     @Id
     private int pid;
     private String productName;
-    private int qyt;
+    private int qty;
     private int price;
 }

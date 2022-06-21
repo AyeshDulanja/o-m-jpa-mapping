@@ -1,0 +1,15 @@
+{
+    "customer":{
+        "name":"Ayesh",
+        "email":"ayesh@gmail.com",
+        "gender":"male",
+        "products":[
+            {
+                "pid":100,
+                "productName":"note8",
+                "price":8000,
+                "qty":1
+            }
+        ]
+    }
+}
