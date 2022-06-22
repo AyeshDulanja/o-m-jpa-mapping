@@ -1,0 +1,21 @@
+{
+    "customer":{
+        "name":"vjcasv",
+        "email":"vjcasv@gmail.com",
+        "gender":"female",
+        "products":[
+            {
+                "pid":102,
+                "productName":"note8",
+                "price":9000,
+                "qty":2
+            },
+            {
+                "pid":203,
+                "productName":"iphone",
+                "price":19999,
+                "qty":1
+            }
+        ]
+    }
+}
